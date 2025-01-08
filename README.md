@@ -1,4 +1,4 @@
 ### Goodday.
 
 ### Currently hosted projects (public):
-- [Presidenten](presidenten.ddns.net): Scoreboard for cardgame between friends
+- [Presidenten](http://presidenten.ddns.net/): Scoreboard for cardgame between friends
